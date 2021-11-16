@@ -6,7 +6,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://originalheaven.github.io/images/heart-g1acc5d9d4_1280.png</image:loc>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/home-copy.html</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/home-copy-copy.html</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/home-copy-copy-copy.html</loc>
+    <lastmod>2021-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
     </image:image>
   </url>
 </urlset>
