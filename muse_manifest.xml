@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637875223896">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637878689502">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
     <file name="index.css" crc="3957686692" ref="index"/>
     <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
-    <file name="rakuten.css" crc="209559927" ref="rakuten"/>
+    <file name="rakuten.css" crc="148924579" ref="rakuten"/>
     <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
   </folder>
   <folder name="scripts">
@@ -58,12 +58,60 @@
     <file name="填寫身分資料樂天銀行.jpg" crc="471285477" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u460-4.png" crc="398518411" ref="rakuten"/>
+    <file name="u460-4.png" crc="27136613" ref="rakuten"/>
     <file name="u345-4.png" crc="398518411" ref="rakuten"/>
+    <file name="6.jpg" crc="3992947052" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u476-12.png" crc="390975470" ref="rakuten"/>
+    <file name="上傳驗證身分證樂天銀行.jpg" crc="456872229" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u489-4.png" crc="3946373784" ref="rakuten"/>
+    <file name="8.jpg" crc="390719170" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u502-14.png" crc="444505530" ref="rakuten"/>
+    <file name="9.jpg" crc="253282464" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u515-4.png" crc="3803061566" ref="rakuten"/>
+    <file name="驗證他行帳戶.jpg" crc="435248072" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u528-4.png" crc="4273371788" ref="rakuten"/>
+    <file name="送出樂天銀行開戶申請.jpg" crc="4243137891" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u541-4.png" crc="102871393" ref="rakuten"/>
+    <file name="1.jpg" crc="4192654695" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u554-4.png" crc="4269026810" ref="rakuten"/>
+    <file name="2.jpg" crc="176041690" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u567-4.png" crc="3982718403" ref="rakuten"/>
+    <file name="3.jpg" crc="289048651" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u580-4.png" crc="4015913314" ref="rakuten"/>
+    <file name="4.jpg" crc="4154917223" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u613-6.png" crc="3960302974" ref="rakuten"/>
+    <file name="5.jpg" crc="138636770" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u686-8.png" crc="4218176976" ref="rakuten"/>
+    <file name="62.jpg" crc="4127391721" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u709-4.png" crc="4118323294" ref="rakuten"/>
   </folder>
   <file name="index.html" crc="363945666" seo="true" mt="1637054563059" redirect="true"/>
   <file name="home-copy.html" crc="146942106" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="47386423" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="359907256" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="4063886259" seo="true" mt="1637875198832" redirect="true"/>
+  <file name="rakuten.html" crc="169299263" seo="true" mt="1637878675695" redirect="true"/>
 </manifest>
