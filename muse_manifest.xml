@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637865688081">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637870604630">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
     <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
     <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
     <file name="index.css" crc="3957686692" ref="index"/>
-    <file name="rakuten.css" crc="4157555182" ref="rakuten"/>
+    <file name="rakuten.css" crc="472723075" ref="rakuten"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
@@ -36,11 +36,36 @@
     <file name="u296_states.png" crc="203732210" ref="rakuten"/>
     <file name="u296_states-r.png" crc="4149221343" ref="rakuten"/>
     <file name="u289-63.png" crc="417297813" ref="rakuten"/>
-    <file name="u292-229.png" crc="38085870" ref="rakuten"/>
+    <file name="u292-253.png" crc="4048135493" ref="rakuten"/>
+    <file name="u327-8.png" crc="3912783295" ref="rakuten"/>
+    <file name="u352_states.png" crc="203732210" ref="rakuten"/>
+    <file name="u352_states-r.png" crc="4149221343" ref="rakuten"/>
+    <file name="u330-6.png" crc="3946177568" ref="rakuten"/>
+    <file name="樂天銀行開戶.jpg" crc="81194303" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u333-4.png" crc="4263310227" ref="rakuten"/>
+    <file name="填寫樂天銀行申辦資料.jpg" crc="4143942959" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u339-4.png" crc="199227141" ref="rakuten"/>
+    <file name="樂天銀行驗證手機.jpg" crc="4107434978" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u342-4.png" crc="3816116446" ref="rakuten"/>
+    <file name="樂天銀行確認合約.jpg" crc="3796985728" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u336-4.png" crc="106425259" ref="rakuten"/>
+    <file name="填寫身分資料樂天銀行.jpg" crc="471285477" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u345-4.png" crc="398518411" ref="rakuten"/>
+    <file name="u348-4.png" crc="398518411" ref="rakuten"/>
   </folder>
   <file name="index.html" crc="476055033" seo="true" mt="1637054563059" redirect="true"/>
   <file name="home-copy.html" crc="414431591" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="22263500" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="4184870510" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="4153912778" seo="true" mt="1637865647711" redirect="true"/>
+  <file name="rakuten.html" crc="509027597" seo="true" mt="1637870574479" redirect="true"/>
 </manifest>
