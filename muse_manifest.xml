@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637870604630">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637875223896">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
     <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
-    <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
     <file name="index.css" crc="3957686692" ref="index"/>
-    <file name="rakuten.css" crc="472723075" ref="rakuten"/>
+    <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
+    <file name="rakuten.css" crc="209559927" ref="rakuten"/>
+    <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
-    <file name="museutils.js" crc="3803043152" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="museutils.js" crc="3939489907" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
     <file name="whatinput.js" crc="86476730" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
-    <file name="museconfig.js" crc="380897831" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
-    <file name="require.js" crc="4157109226" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="require.js" crc="4177726516" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
   </folder>
   <folder name="images">
     <file name="4120.png" crc="208908341" seo="true" ref="index:home-copy:home-copy-copy:home-copy-copy-copy">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-copy" alt=""/>
       <caption webpage="home-copy-copy" alt=""/>
       <caption webpage="home-copy-copy-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:rakuten"/>
     <file name="u213.png" crc="4117383567" ref="index"/>
@@ -28,44 +28,42 @@
     <file name="u227.png" crc="164206300" ref="index"/>
     <file name="u227-r.png" crc="164206300" ref="index"/>
     <file name="u264-4.png" crc="266252517" ref="rakuten"/>
-    <file name="u280-94.png" crc="4253945482" ref="rakuten"/>
-    <file name="u261-6.png" crc="102382021" ref="rakuten"/>
+    <file name="u280-99.png" crc="405897515" ref="rakuten"/>
     <file name="u302_states.png" crc="203732210" ref="rakuten"/>
     <file name="u302_states-r.png" crc="4149221343" ref="rakuten"/>
     <file name="u267-29.png" crc="4058926646" ref="rakuten"/>
     <file name="u296_states.png" crc="203732210" ref="rakuten"/>
     <file name="u296_states-r.png" crc="4149221343" ref="rakuten"/>
-    <file name="u289-63.png" crc="417297813" ref="rakuten"/>
-    <file name="u292-253.png" crc="4048135493" ref="rakuten"/>
-    <file name="u327-8.png" crc="3912783295" ref="rakuten"/>
+    <file name="u289-101.png" crc="347728961" ref="rakuten"/>
+    <file name="u463-223.png" crc="4028961080" ref="rakuten"/>
     <file name="u352_states.png" crc="203732210" ref="rakuten"/>
     <file name="u352_states-r.png" crc="4149221343" ref="rakuten"/>
-    <file name="u330-6.png" crc="3946177568" ref="rakuten"/>
+    <file name="u410-6.png" crc="3946177568" ref="rakuten"/>
     <file name="樂天銀行開戶.jpg" crc="81194303" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u333-4.png" crc="4263310227" ref="rakuten"/>
+    <file name="u420-4.png" crc="4263310227" ref="rakuten"/>
     <file name="填寫樂天銀行申辦資料.jpg" crc="4143942959" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u339-4.png" crc="199227141" ref="rakuten"/>
+    <file name="u430-4.png" crc="199227141" ref="rakuten"/>
     <file name="樂天銀行驗證手機.jpg" crc="4107434978" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u342-4.png" crc="3816116446" ref="rakuten"/>
+    <file name="u440-4.png" crc="3816116446" ref="rakuten"/>
     <file name="樂天銀行確認合約.jpg" crc="3796985728" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u336-4.png" crc="106425259" ref="rakuten"/>
+    <file name="u450-4.png" crc="106425259" ref="rakuten"/>
     <file name="填寫身分資料樂天銀行.jpg" crc="471285477" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
+    <file name="u460-4.png" crc="398518411" ref="rakuten"/>
     <file name="u345-4.png" crc="398518411" ref="rakuten"/>
-    <file name="u348-4.png" crc="398518411" ref="rakuten"/>
   </folder>
-  <file name="index.html" crc="476055033" seo="true" mt="1637054563059" redirect="true"/>
-  <file name="home-copy.html" crc="414431591" seo="true" mt="1637052071158" redirect="true"/>
-  <file name="home-copy-copy.html" crc="22263500" seo="true" mt="1637052072939" redirect="true"/>
-  <file name="home-copy-copy-copy.html" crc="4184870510" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="509027597" seo="true" mt="1637870574479" redirect="true"/>
+  <file name="index.html" crc="363945666" seo="true" mt="1637054563059" redirect="true"/>
+  <file name="home-copy.html" crc="146942106" seo="true" mt="1637052071158" redirect="true"/>
+  <file name="home-copy-copy.html" crc="47386423" seo="true" mt="1637052072939" redirect="true"/>
+  <file name="home-copy-copy-copy.html" crc="359907256" seo="true" mt="1637052074568" redirect="true"/>
+  <file name="rakuten.html" crc="4063886259" seo="true" mt="1637875198832" redirect="true"/>
 </manifest>
