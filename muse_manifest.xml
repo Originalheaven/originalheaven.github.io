@@ -1,34 +1,38 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637054579263">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637862855989">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
+    <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
     <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
     <file name="index.css" crc="3957686692" ref="index"/>
-    <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
-    <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
+    <file name="rakuten.css" crc="485427862" ref="rakuten"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
-    <file name="museutils.js" crc="3803043152" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
-    <file name="museconfig.js" crc="380897831" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
-    <file name="require.js" crc="4157109226" ref="index:home-copy:home-copy-copy:home-copy-copy-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="museutils.js" crc="3803043152" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="museconfig.js" crc="380897831" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
+    <file name="require.js" crc="4157109226" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
   </folder>
   <folder name="images">
     <file name="4120.png" crc="208908341" seo="true" ref="index:home-copy:home-copy-copy:home-copy-copy-copy">
       <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
       <caption webpage="home-copy-copy" alt=""/>
       <caption webpage="home-copy-copy-copy" alt=""/>
-      <caption webpage="home-copy" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u213.png" crc="4117383567" ref="index"/>
     <file name="u213-r.png" crc="4117383567" ref="index"/>
     <file name="u227.png" crc="164206300" ref="index"/>
     <file name="u227-r.png" crc="164206300" ref="index"/>
+    <file name="u264-5.png" crc="509482102" ref="rakuten"/>
+    <file name="u261-103.png" crc="171789709" ref="rakuten"/>
   </folder>
   <file name="index.html" crc="476055033" seo="true" mt="1637054563059" redirect="true"/>
   <file name="home-copy.html" crc="414431591" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="22263500" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="4184870510" seo="true" mt="1637052074568" redirect="true"/>
+  <file name="rakuten.html" crc="87365943" seo="true" mt="1637862766083" redirect="true"/>
 </manifest>
