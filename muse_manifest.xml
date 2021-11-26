@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637891828891">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637892525558">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
@@ -172,13 +172,13 @@
     <file name="28.jpg" crc="4130395097" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u1183-136.png" crc="321699832" ref="rakuten"/>
+    <file name="u1183-136.png" crc="72859581" ref="rakuten"/>
     <file name="u1186-124.png" crc="389427347" ref="rakuten"/>
     <file name="u289-113.png" crc="241958778" ref="rakuten"/>
     <file name="u1285-6.png" crc="474189147" ref="rakuten"/>
     <file name="u1274_states.png" crc="203732210" ref="rakuten"/>
     <file name="u1274_states-r.png" crc="4149221343" ref="rakuten"/>
-    <file name="u345-96.png" crc="491346174" ref="rakuten"/>
+    <file name="u345-96.png" crc="223000410" ref="rakuten"/>
     <file name="u1280_states.png" crc="165279323" ref="rakuten"/>
     <file name="u1280_states-r.png" crc="4073621683" ref="rakuten"/>
   </folder>
@@ -186,5 +186,5 @@
   <file name="home-copy.html" crc="146942106" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="47386423" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="359907256" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="414515091" seo="true" mt="1637891816196" redirect="true"/>
+  <file name="rakuten.html" crc="395209603" seo="true" mt="1637892294749" redirect="true"/>
 </manifest>
