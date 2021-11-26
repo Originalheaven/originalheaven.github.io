@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637885250974">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637888174308">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
-    <file name="index.css" crc="3957686692" ref="index"/>
-    <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
-    <file name="rakuten.css" crc="3829710679" ref="rakuten"/>
     <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
+    <file name="home-copy-copy-copy.css" crc="3939472382" ref="home-copy-copy-copy"/>
+    <file name="index.css" crc="3957686692" ref="index"/>
+    <file name="home-copy-copy.css" crc="71077940" ref="home-copy-copy"/>
+    <file name="rakuten.css" crc="439751325" ref="rakuten"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-copy:home-copy-copy-copy:rakuten"/>
@@ -19,8 +19,8 @@
     <file name="4120.png" crc="208908341" seo="true" ref="index:home-copy:home-copy-copy:home-copy-copy-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="home-copy-copy" alt=""/>
-      <caption webpage="home-copy-copy-copy" alt=""/>
       <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy-copy-copy" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:rakuten"/>
     <file name="u213.png" crc="4117383567" ref="index"/>
@@ -86,19 +86,15 @@
     <file name="1.jpg" crc="4192654695" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
+    <file name="u554-6.png" crc="4194463756" ref="rakuten"/>
     <file name="2.jpg" crc="176041690" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="82.jpg" crc="79874205" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="u567-4.png" crc="4284690481" ref="rakuten"/>
     <file name="3.jpg" crc="289048651" seo="true" ref="rakuten">
-      <caption webpage="rakuten" alt=""/>
-    </file>
-    <file name="62.jpg" crc="4127391721" seo="true" ref="rakuten">
-      <caption webpage="rakuten" alt=""/>
-    </file>
-    <file name="u709-4.png" crc="3977081657" ref="rakuten"/>
-    <file name="u554-6.png" crc="4194463756" ref="rakuten"/>
-    <file name="82.jpg" crc="79874205" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="92.jpg" crc="399680971" seo="true" ref="rakuten">
@@ -119,17 +115,21 @@
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="u686-12.png" crc="424904848" ref="rakuten"/>
+    <file name="62.jpg" crc="4127391721" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
+    <file name="u709-4.png" crc="3977081657" ref="rakuten"/>
     <file name="7.jpg" crc="4096959483" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="u732-4.png" crc="4084613632" ref="rakuten"/>
+    <file name="18.jpg" crc="105682240" seo="true" ref="rakuten">
+      <caption webpage="rakuten" alt=""/>
+    </file>
     <file name="14.jpg" crc="52724636" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="15.jpg" crc="3799394055" seo="true" ref="rakuten">
-      <caption webpage="rakuten" alt=""/>
-    </file>
-    <file name="18.jpg" crc="105682240" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
     <file name="u885-6.png" crc="44008994" ref="rakuten"/>
@@ -173,13 +173,13 @@
     <file name="28.jpg" crc="4130395097" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u1183-74.png" crc="3759555903" ref="rakuten"/>
-    <file name="u1186-124.png" crc="3870775677" ref="rakuten"/>
+    <file name="u1183-136.png" crc="3874202239" ref="rakuten"/>
+    <file name="u1186-124.png" crc="389427347" ref="rakuten"/>
     <file name="u345-83.png" crc="522719494" ref="rakuten"/>
   </folder>
   <file name="index.html" crc="363945666" seo="true" mt="1637054563059" redirect="true"/>
   <file name="home-copy.html" crc="146942106" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="47386423" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="359907256" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="37627670" seo="true" mt="1637884981093" redirect="true"/>
+  <file name="rakuten.html" crc="182492990" seo="true" mt="1637888145008" redirect="true"/>
 </manifest>
