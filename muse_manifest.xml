@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637888174308">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1637888740058">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-copy.css" crc="3943976925" ref="home-copy"/>
@@ -173,7 +173,7 @@
     <file name="28.jpg" crc="4130395097" seo="true" ref="rakuten">
       <caption webpage="rakuten" alt=""/>
     </file>
-    <file name="u1183-136.png" crc="3874202239" ref="rakuten"/>
+    <file name="u1183-136.png" crc="321699832" ref="rakuten"/>
     <file name="u1186-124.png" crc="389427347" ref="rakuten"/>
     <file name="u345-83.png" crc="522719494" ref="rakuten"/>
   </folder>
@@ -181,5 +181,5 @@
   <file name="home-copy.html" crc="146942106" seo="true" mt="1637052071158" redirect="true"/>
   <file name="home-copy-copy.html" crc="47386423" seo="true" mt="1637052072939" redirect="true"/>
   <file name="home-copy-copy-copy.html" crc="359907256" seo="true" mt="1637052074568" redirect="true"/>
-  <file name="rakuten.html" crc="182492990" seo="true" mt="1637888145008" redirect="true"/>
+  <file name="rakuten.html" crc="4172463159" seo="true" mt="1637888716455" redirect="true"/>
 </manifest>
