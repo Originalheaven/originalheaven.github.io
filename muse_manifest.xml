@@ -1,27 +1,29 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641456214613">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641458494978">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3957686692" ref="index"/>
     <file name="lisa1.css" crc="4125095736" ref="lisa1"/>
     <file name="roseta1.css" crc="4070618373" ref="roseta1"/>
     <file name="daian1.css" crc="3903056778" ref="daian1"/>
+    <file name="lisa2.css" crc="4078825093" ref="lisa2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:daian1:roseta1:lisa1"/>
-    <file name="museutils.js" crc="3939489907" ref="index:daian1:roseta1:lisa1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:daian1:roseta1:lisa1"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:daian1:roseta1:lisa1"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:daian1:roseta1:lisa1"/>
-    <file name="require.js" crc="4177726516" ref="index:daian1:roseta1:lisa1"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:daian1:roseta1:lisa1:lisa2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:daian1:roseta1:lisa1:lisa2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:daian1:roseta1:lisa1:lisa2"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:daian1:roseta1:lisa1:lisa2"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:daian1:roseta1:lisa1:lisa2"/>
+    <file name="require.js" crc="4177726516" ref="index:daian1:roseta1:lisa1:lisa2"/>
   </folder>
   <folder name="images">
-    <file name="4120.png" crc="208908341" seo="true" ref="index:daian1:roseta1:lisa1">
-      <caption webpage="home-copy-copy" alt=""/>
+    <file name="4120.png" crc="208908341" seo="true" ref="index:daian1:roseta1:lisa1:lisa2">
       <caption webpage="home-copy" alt=""/>
-      <caption webpage="roseta1" alt=""/>
       <caption webpage="home-copy-copy-copy" alt=""/>
+      <caption webpage="roseta1" alt=""/>
+      <caption webpage="lisa2" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="daian1" alt=""/>
+      <caption webpage="home-copy-copy" alt=""/>
       <caption webpage="lisa1" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -32,9 +34,11 @@
     <file name="u477-6.png" crc="316396837" ref="daian1"/>
     <file name="u480-6.png" crc="4258141775" ref="roseta1"/>
     <file name="u495-6.png" crc="3788254396" ref="lisa1"/>
+    <file name="u524-6.png" crc="111306686" ref="lisa2"/>
   </folder>
   <file name="index.html" crc="363945666" seo="true" mt="1637054563059" redirect="true"/>
   <file name="daian1.html" crc="4160477918" seo="true" mt="1641455663213" redirect="true"/>
   <file name="roseta1.html" crc="495323189" seo="true" mt="1641455668755" redirect="true"/>
   <file name="lisa1.html" crc="3968891834" seo="true" mt="1641456062393" redirect="true"/>
+  <file name="lisa2.html" crc="33356876" seo="true" mt="1641458489810" redirect="true"/>
 </manifest>

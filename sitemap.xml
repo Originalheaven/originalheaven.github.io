@@ -36,4 +36,13 @@
       <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://originalheaven.github.io/lisa2.html</loc>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
