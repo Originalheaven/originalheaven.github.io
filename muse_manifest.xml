@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641561919249">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641562024499">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3957686692" ref="index"/>
@@ -30,9 +30,9 @@
       <caption webpage="roseta3" alt=""/>
       <caption webpage="daian3" alt=""/>
       <caption webpage="home-copy-copy-copy" alt=""/>
-      <caption webpage="lisa2" alt=""/>
-      <caption webpage="daian2" alt=""/>
       <caption webpage="lisa1" alt=""/>
+      <caption webpage="daian2" alt=""/>
+      <caption webpage="lisa2" alt=""/>
       <caption webpage="roseta2" alt=""/>
       <caption webpage="home-copy-copy" alt=""/>
     </file>
@@ -47,9 +47,9 @@
     <file name="u524-6.png" crc="111306686" ref="lisa2"/>
     <file name="u557-6.png" crc="4219213281" ref="roseta2"/>
     <file name="u580-6.png" crc="220581888" ref="daian2"/>
-    <file name="u602-6.png" crc="220581888" ref="daian3"/>
-    <file name="u648-6.png" crc="4219213281" ref="roseta3"/>
-    <file name="u667-6.png" crc="111306686" ref="lisa3"/>
+    <file name="u602-6.png" crc="496656678" ref="daian3"/>
+    <file name="u648-6.png" crc="4038365991" ref="roseta3"/>
+    <file name="u667-6.png" crc="3956770706" ref="lisa3"/>
   </folder>
   <file name="index.html" crc="363945666" seo="true" mt="1637054563059" redirect="true"/>
   <file name="daian1.html" crc="4160477918" seo="true" mt="1641455663213" redirect="true"/>
@@ -58,7 +58,7 @@
   <file name="lisa2.html" crc="4066894898" seo="true" mt="1641458705516" redirect="true"/>
   <file name="roseta2.html" crc="3789054120" seo="true" mt="1641458985736" redirect="true"/>
   <file name="daian2.html" crc="80334787" seo="true" mt="1641458946451" redirect="true"/>
-  <file name="daian3.html" crc="4217972384" seo="true" mt="1641561868991" redirect="true"/>
-  <file name="roseta3.html" crc="3928053826" seo="true" mt="1641561880963" redirect="true"/>
-  <file name="lisa3.html" crc="3813109339" seo="true" mt="1641561897668" redirect="true"/>
+  <file name="daian3.html" crc="467651532" seo="true" mt="1641562019467" redirect="true"/>
+  <file name="roseta3.html" crc="386517724" seo="true" mt="1641562016001" redirect="true"/>
+  <file name="lisa3.html" crc="3799037296" seo="true" mt="1641562011340" redirect="true"/>
 </manifest>
