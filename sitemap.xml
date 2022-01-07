@@ -63,4 +63,31 @@
       <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://originalheaven.github.io/daian3.html</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/roseta3.html</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/lisa3.html</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
