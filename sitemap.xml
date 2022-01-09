@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>http://originalheaven.github.io/daian4.html</loc>
-    <lastmod>2022-01-08</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +101,7 @@
   </url>
   <url>
     <loc>http://originalheaven.github.io/roseta4.html</loc>
-    <lastmod>2022-01-08</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,16 @@
   </url>
   <url>
     <loc>http://originalheaven.github.io/lisa4.html</loc>
-    <lastmod>2022-01-08</lastmod>
+    <lastmod>2022-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://originalheaven.github.io/images/4120.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://originalheaven.github.io/daian5.html</loc>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
