@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641980240805">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1641980376888">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3957686692" ref="index"/>
@@ -30,20 +30,20 @@
       <caption webpage="lisa2" alt=""/>
       <caption webpage="lisa1" alt=""/>
       <caption webpage="roseta5" alt=""/>
-      <caption webpage="daian3" alt=""/>
+      <caption webpage="home-copy" alt=""/>
       <caption webpage="lisa4" alt=""/>
       <caption webpage="roseta3" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="daian1" alt=""/>
-      <caption webpage="roseta2" alt=""/>
+      <caption webpage="lisa3" alt=""/>
+      <caption webpage="home-copy-copy" alt=""/>
       <caption webpage="roseta4" alt=""/>
-      <caption webpage="home-copy-copy-copy" alt=""/>
+      <caption webpage="roseta2" alt=""/>
       <caption webpage="daian2" alt=""/>
       <caption webpage="daian4" alt=""/>
-      <caption webpage="home-copy" alt=""/>
-      <caption webpage="lisa3" alt=""/>
+      <caption webpage="daian3" alt=""/>
       <caption webpage="roseta1" alt=""/>
-      <caption webpage="home-copy-copy" alt=""/>
+      <caption webpage="home-copy-copy-copy" alt=""/>
       <caption webpage="daian5" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:roseta5"/>
@@ -87,5 +87,5 @@
   <file name="roseta4.html" crc="123629346" seo="true" mt="1641753176932" redirect="true"/>
   <file name="lisa4.html" crc="3793030823" seo="true" mt="1641753155978" redirect="true"/>
   <file name="daian5.html" crc="3851142273" seo="true" mt="1641753151182" redirect="true"/>
-  <file name="roseta5.html" crc="501308126" seo="true" mt="1641980235231" redirect="true"/>
+  <file name="roseta5.html" crc="119530176" seo="true" mt="1641980372338" redirect="true"/>
 </manifest>
