@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1644380800550">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="originalheaven.github.io" resolutions="1x" timestamp="1644397892633">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="36817014" ref="index"/>
+    <file name="index.css" crc="260279358" ref="index"/>
     <file name="lisa1.css" crc="4125095736" ref="lisa1"/>
     <file name="roseta1.css" crc="4070618373" ref="roseta1"/>
     <file name="daian1.css" crc="3903056778" ref="daian1"/>
@@ -27,38 +27,40 @@
     <file name="museconfig.js" crc="3936894949" ref="index:daian1:roseta1:lisa1:lisa2:roseta2:daian2:daian3:roseta3:lisa3:daian4:roseta4:lisa4:daian5:roseta5:test:daian6:roseta6"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:daian1:roseta1:lisa1:lisa2:roseta2:daian2:daian3:roseta3:lisa3:daian4:roseta4:lisa4:daian5:roseta5:test:daian6:roseta6"/>
     <file name="require.js" crc="4177726516" ref="index:daian1:roseta1:lisa1:lisa2:roseta2:daian2:daian3:roseta3:lisa3:daian4:roseta4:lisa4:daian5:roseta5:test:daian6:roseta6"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
   </folder>
   <folder name="images">
     <file name="4120.png" crc="208908341" seo="true" ref="index:daian1:roseta1:lisa1:lisa2:roseta2:daian2:daian3:roseta3:lisa3:daian4:roseta4:lisa4:daian5:roseta5:test:daian6:roseta6">
-      <caption webpage="home-copy" alt=""/>
-      <caption webpage="test2" alt=""/>
-      <caption webpage="lisa3" alt=""/>
-      <caption webpage="daian2" alt=""/>
-      <caption webpage="daian1" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="lisa2" alt=""/>
-      <caption webpage="roseta1" alt=""/>
-      <caption webpage="roseta2" alt=""/>
-      <caption webpage="daian4" alt=""/>
-      <caption webpage="roseta5" alt=""/>
-      <caption webpage="daian6" alt=""/>
-      <caption webpage="roseta4" alt=""/>
-      <caption webpage="home-copy-copy-copy" alt=""/>
-      <caption webpage="daian5" alt=""/>
-      <caption webpage="roseta6" alt=""/>
-      <caption webpage="home-copy-copy" alt=""/>
-      <caption webpage="daian3" alt=""/>
       <caption webpage="lisa1" alt=""/>
       <caption webpage="lisa4" alt=""/>
-      <caption webpage="test" alt=""/>
-      <caption webpage="lisa1副本" alt=""/>
+      <caption webpage="roseta4" alt=""/>
       <caption webpage="roseta3" alt=""/>
+      <caption webpage="roseta2" alt=""/>
+      <caption webpage="test2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lisa2" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="home-copy-copy-copy" alt=""/>
+      <caption webpage="daian4" alt=""/>
+      <caption webpage="roseta5" alt=""/>
+      <caption webpage="lisa1副本" alt=""/>
+      <caption webpage="roseta1" alt=""/>
+      <caption webpage="lisa3" alt=""/>
+      <caption webpage="daian2" alt=""/>
+      <caption webpage="roseta6" alt=""/>
+      <caption webpage="daian5" alt=""/>
+      <caption webpage="daian3" alt=""/>
+      <caption webpage="daian6" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy-copy" alt=""/>
+      <caption webpage="daian1" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:roseta5:roseta6"/>
     <file name="u213.png" crc="4117383567" ref="index"/>
     <file name="u213-r.png" crc="4117383567" ref="index"/>
-    <file name="u227.png" crc="164206300" ref="index"/>
-    <file name="u227-r.png" crc="164206300" ref="index"/>
     <file name="u477-6.png" crc="316396837" ref="daian1"/>
     <file name="u480-6.png" crc="4258141775" ref="roseta1"/>
     <file name="u495-6.png" crc="3788254396" ref="lisa1"/>
@@ -91,7 +93,7 @@
     <file name="u884_states-r.png" crc="4020183062" ref="roseta6"/>
     <file name="u884_states-m.png" crc="4231282781" ref="roseta6"/>
   </folder>
-  <file name="index.html" crc="3853223622" seo="true" mt="1644380765979" redirect="true"/>
+  <file name="index.html" crc="4197202678" seo="true" mt="1644397885416" redirect="true"/>
   <file name="daian1.html" crc="4160477918" seo="true" mt="1641455663213" redirect="true"/>
   <file name="roseta1.html" crc="495323189" seo="true" mt="1641455668755" redirect="true"/>
   <file name="lisa1.html" crc="3968891834" seo="true" mt="1641456062393" redirect="true"/>
